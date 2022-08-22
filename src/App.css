@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(bg.jpg);
+    font-size: 20px;
+}
+
+.exp {
+    margin: 15px;
+}
+.img{
+    margin: 5px;
+}
+.title{
+    margin: 6px;
+   font-weight: 700;
+}
+button{
+    margin: 10px;
+    background-color: antiquewhite;
+    border-radius: 7px;
+    padding: 5px;
+    font-size: 15px;
+    border-color:rosybrown ;
+
+}
